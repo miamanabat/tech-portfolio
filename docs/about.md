@@ -3,23 +3,14 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
+I am Mia Manabat, an undergraduate sophomore at the University of Notre Dame pursuing an engineering degree in computer science. I love problem solving, coding, soccer, food, origami, my dog, and trying new things! I'm always seeking to improve and learn new skills. :)
 
 > Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
 
 Grace Hopper Celebration Attendee
+Undergrad TA for First-Year Engineering Programming at University of Notre Dame
 
 ## Recognition
 
